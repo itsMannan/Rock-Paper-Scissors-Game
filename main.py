@@ -31,20 +31,3 @@ choices = get_choices()
 result = check_win(choices['player'], choices['computer'])
 print(result)
 
-
-
-"""Concept of if and elif(else if) statement"""
-# age = 20
-
-# if age >= 18:
-#     print("Your an Adult.")
-# elif age >=12:
-#     print("You're a Teenager.")
-# elif age>=1:
-#     print("You're a Child.")
-# else:
-#     print("You're a Baby.")
-
-"""For Testing the {def get_choices()} function"""
-# choices = get_choices() 
-# print(choices)
